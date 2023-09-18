@@ -1,3 +1,5 @@
+          // Conversion  //
+
 // let score =false;
 // console.log(typeof(score));
 // let valueNumber = Number(score)
@@ -23,3 +25,36 @@ let someNumber = 95;
 let stringNumber = String(someNumber)
 console.log(someNumber)
 console.log(typeof stringNumber)
+
+
+                //  Operation  //
+let value =5;
+let negvalue = -value;
+// console.log(negvalue);
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2/2);
+// console.log(2%2);
+
+let str1 = "Amit ";
+let str2 = "Gupta"
+let c = str1+ str2
+console.log(c);
+
+console.log("1"+2);
+console.log(1+"2");
+console.log("1"+2+2);
+
+console.log(true)
+console.log(+true);
+console.log(+"");
+
+
+let num1, num2, num3;
+num1= num2 = num3 = 2+2;
+
+let gamecounter=100;
+++gamecounter;
+console.log(gamecounter);
