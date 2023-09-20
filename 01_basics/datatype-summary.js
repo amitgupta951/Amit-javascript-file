@@ -24,3 +24,21 @@ const myFunction =  function(){
 }
 
 console.log(typeof bigNumber)
+
+
+// ***************************** //
+let mynameisAmit = "Amit.Gupta"
+ let anothername =mynameisAmit;
+ anothername = "chaiwithbiscuit"
+ console.log(mynameisAmit)
+ console.log(anothername)
+
+ let userone={
+    email_id: "amit.gupta@gmail.com",
+    upi_id:" amitgupta@paytm"
+ }
+ 
+ let usertwo= userone
+ usertwo.email_id = "amitgupta@sentient.in"
+ console.log(userone.email_id)
+ console.log(usertwo.email_id)
