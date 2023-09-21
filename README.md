@@ -1,2 +1,2 @@
 # Amit-javascript-file
-A code repo for javascript series from chai aur code
+  This Repository for javascript Learning
