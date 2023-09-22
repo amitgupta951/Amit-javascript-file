@@ -39,7 +39,7 @@ function addone(num){
 }
 
 
+addTwo(4)
 const addTwo =  function(num){
     return num + 2
 }
-addTwo(4)
